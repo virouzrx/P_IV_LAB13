@@ -10,7 +10,6 @@ namespace Lab13
 {
     class LabelGenerator : IControlGenerator
     {
-
         public FrameworkElement Generate()
         {
             return new Label()
